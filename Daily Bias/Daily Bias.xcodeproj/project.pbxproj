@@ -48,7 +48,6 @@
 		181D0F61243848B9008E3B27 = {
 			isa = PBXGroup;
 			children = (
-				181D0F73243848B9008E3B27 /* Main.storyboard */,
 				181D0F6C243848B9008E3B27 /* Daily Bias */,
 				181D0F6B243848B9008E3B27 /* Products */,
 			);
@@ -70,11 +69,6 @@
 				181D0F83243848DE008E3B27 /* Views */,
 				181D0F82243848DB008E3B27 /* Helper */,
 				181D0F81243848D8008E3B27 /* Resources */,
-				181D0F6D243848B9008E3B27 /* AppDelegate.swift */,
-				181D0F6F243848B9008E3B27 /* SceneDelegate.swift */,
-				181D0F76243848BC008E3B27 /* Assets.xcassets */,
-				181D0F78243848BC008E3B27 /* LaunchScreen.storyboard */,
-				181D0F7B243848BC008E3B27 /* Info.plist */,
 			);
 			path = "Daily Bias";
 			sourceTree = "<group>";
@@ -82,6 +76,11 @@
 		181D0F81243848D8008E3B27 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				181D0F6D243848B9008E3B27 /* AppDelegate.swift */,
+				181D0F6F243848B9008E3B27 /* SceneDelegate.swift */,
+				181D0F76243848BC008E3B27 /* Assets.xcassets */,
+				181D0F78243848BC008E3B27 /* LaunchScreen.storyboard */,
+				181D0F7B243848BC008E3B27 /* Info.plist */,
 				181D0F88243849F0008E3B27 /* cognitiveBiases.json */,
 				181D0F8C24386F6B008E3B27 /* pictures.json */,
 			);
@@ -99,6 +98,7 @@
 		181D0F83243848DE008E3B27 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				181D0F73243848B9008E3B27 /* Main.storyboard */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -342,7 +342,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3Y244BANUZ;
-				INFOPLIST_FILE = "Daily Bias/Info.plist";
+				INFOPLIST_FILE = "Daily Bias/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -360,7 +360,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3Y244BANUZ;
-				INFOPLIST_FILE = "Daily Bias/Info.plist";
+				INFOPLIST_FILE = "Daily Bias/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
