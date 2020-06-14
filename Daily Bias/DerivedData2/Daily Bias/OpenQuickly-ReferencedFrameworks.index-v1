@@ -2,8 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<string>UIKit</string>
+	<string>XCTest</string>
+	<string>Alarm</string>
 	<string>UserNotifications</string>
+	<string>MediaPlayer</string>
+	<string>AudioToolbox</string>
+	<string>UIKit</string>
+	<string>AVFoundation</string>
 	<string>Foundation</string>
 </array>
 </plist>

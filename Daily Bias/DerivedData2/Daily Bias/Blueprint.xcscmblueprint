@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0FB6F8CE37CCFAF5D14D4DECCD7A11FF76BB56C7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DE6820B9BBB7F476978F92739110C5C202A9136C" : 0,
+    "0FB6F8CE37CCFAF5D14D4DECCD7A11FF76BB56C7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AF53EA47-05A2-4860-8FD8-A613435AB7B9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DE6820B9BBB7F476978F92739110C5C202A9136C" : "GitHubShit\/Alarm-ios-swift\/",
+    "0FB6F8CE37CCFAF5D14D4DECCD7A11FF76BB56C7" : "Daily-Bias\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Daily Bias",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Daily Bias\/Daily Bias.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jcrandell7\/Daily-Bias.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0FB6F8CE37CCFAF5D14D4DECCD7A11FF76BB56C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/natsu1211\/Alarm-ios-swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DE6820B9BBB7F476978F92739110C5C202A9136C"
+    }
+  ]
+}

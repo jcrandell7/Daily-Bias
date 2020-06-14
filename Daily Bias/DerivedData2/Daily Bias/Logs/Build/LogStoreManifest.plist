@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>1235AE2D-0E3A-4162-8209-FE9C5C4CC4F2</key>
+		<key>02055574-F442-407C-8A02-57038F37321C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,13 +15,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1235AE2D-0E3A-4162-8209-FE9C5C4CC4F2.xcactivitylog</string>
+			<string>02055574-F442-407C-8A02-57038F37321C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Daily Bias project</string>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build Daily Bias</string>
 			<key>timeStartedRecording</key>
-			<real>613805047.30072403</real>
+			<real>613866340.70406902</real>
 			<key>timeStoppedRecording</key>
-			<real>613805047.83470201</real>
+			<real>613866341.56875503</real>
 			<key>title</key>
 			<string>Build Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>1235AE2D-0E3A-4162-8209-FE9C5C4CC4F2</string>
+			<string>02055574-F442-407C-8A02-57038F37321C</string>
 		</dict>
-		<key>4337689C-74D8-4B2B-BE7D-B9FB790B34D0</key>
+		<key>03C3E67A-B123-4733-A2EA-C27AC51E6C72</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,13 +49,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4337689C-74D8-4B2B-BE7D-B9FB790B34D0.xcactivitylog</string>
+			<string>03C3E67A-B123-4733-A2EA-C27AC51E6C72.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Daily Bias project</string>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Build Daily Bias</string>
 			<key>timeStartedRecording</key>
-			<real>613853715.44542801</real>
+			<real>613857883.53929603</real>
 			<key>timeStoppedRecording</key>
-			<real>613853715.529948</real>
+			<real>613857884.39191902</real>
 			<key>title</key>
 			<string>Build Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>4337689C-74D8-4B2B-BE7D-B9FB790B34D0</string>
+			<string>03C3E67A-B123-4733-A2EA-C27AC51E6C72</string>
 		</dict>
-		<key>507CED0D-C2B2-4E21-95D1-2C1A64EFF90B</key>
+		<key>0D174BB2-B251-4D16-A286-A99CCBCD3886</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,13 +83,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>507CED0D-C2B2-4E21-95D1-2C1A64EFF90B.xcactivitylog</string>
+			<string>0D174BB2-B251-4D16-A286-A99CCBCD3886.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Daily Bias project</string>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Build Daily Bias</string>
 			<key>timeStartedRecording</key>
-			<real>613853892.16898096</real>
+			<real>613867760.23338199</real>
 			<key>timeStoppedRecording</key>
-			<real>613853892.21472704</real>
+			<real>613867761.26036894</real>
 			<key>title</key>
 			<string>Build Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>507CED0D-C2B2-4E21-95D1-2C1A64EFF90B</string>
+			<string>0D174BB2-B251-4D16-A286-A99CCBCD3886</string>
 		</dict>
-		<key>6260CFC6-F301-4CBB-8E59-744CCCA0A0DD</key>
+		<key>17B31D02-45EA-436E-B896-FE156CF7DB4B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -117,13 +117,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>6260CFC6-F301-4CBB-8E59-744CCCA0A0DD.xcactivitylog</string>
+			<string>17B31D02-45EA-436E-B896-FE156CF7DB4B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Daily Bias project</string>
@@ -134,15 +134,15 @@
 			<key>signature</key>
 			<string>Build Daily Bias</string>
 			<key>timeStartedRecording</key>
-			<real>613849515.63096404</real>
+			<real>613866578.03146803</real>
 			<key>timeStoppedRecording</key>
-			<real>613849518.10699201</real>
+			<real>613866578.94402695</real>
 			<key>title</key>
 			<string>Build Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>6260CFC6-F301-4CBB-8E59-744CCCA0A0DD</string>
+			<string>17B31D02-45EA-436E-B896-FE156CF7DB4B</string>
 		</dict>
-		<key>6BBA9A35-242C-42C7-A5A6-E2B2F4E7E8E6</key>
+		<key>1C988EE7-C9FF-405F-926A-2A5CB889AC12</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -151,13 +151,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>6BBA9A35-242C-42C7-A5A6-E2B2F4E7E8E6.xcactivitylog</string>
+			<string>1C988EE7-C9FF-405F-926A-2A5CB889AC12.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Daily Bias project</string>
@@ -168,15 +168,15 @@
 			<key>signature</key>
 			<string>Build Daily Bias</string>
 			<key>timeStartedRecording</key>
-			<real>613855297.10351598</real>
+			<real>613866190.77731395</real>
 			<key>timeStoppedRecording</key>
-			<real>613855298.87258506</real>
+			<real>613866191.70018697</real>
 			<key>title</key>
 			<string>Build Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>6BBA9A35-242C-42C7-A5A6-E2B2F4E7E8E6</string>
+			<string>1C988EE7-C9FF-405F-926A-2A5CB889AC12</string>
 		</dict>
-		<key>6C6B8957-2B42-419C-A17A-1ECA4B2BA23C</key>
+		<key>2C185557-8F8A-437C-A09B-0650FD7F1D17</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -185,13 +185,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>6C6B8957-2B42-419C-A17A-1ECA4B2BA23C.xcactivitylog</string>
+			<string>2C185557-8F8A-437C-A09B-0650FD7F1D17.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Daily Bias project</string>
@@ -202,15 +202,15 @@
 			<key>signature</key>
 			<string>Build Daily Bias</string>
 			<key>timeStartedRecording</key>
-			<real>613855492.79287696</real>
+			<real>613868182.06710601</real>
 			<key>timeStoppedRecording</key>
-			<real>613855494.08817005</real>
+			<real>613868183.15662599</real>
 			<key>title</key>
 			<string>Build Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>6C6B8957-2B42-419C-A17A-1ECA4B2BA23C</string>
+			<string>2C185557-8F8A-437C-A09B-0650FD7F1D17</string>
 		</dict>
-		<key>76B93AB7-7954-45E2-B497-AAF5263EED9A</key>
+		<key>34A04E15-7587-43CC-884C-75C4F7D600D5</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -219,13 +219,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>76B93AB7-7954-45E2-B497-AAF5263EED9A.xcactivitylog</string>
+			<string>34A04E15-7587-43CC-884C-75C4F7D600D5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Daily Bias project</string>
@@ -236,15 +236,15 @@
 			<key>signature</key>
 			<string>Build Daily Bias</string>
 			<key>timeStartedRecording</key>
-			<real>613855338.07845604</real>
+			<real>613866238.79252601</real>
 			<key>timeStoppedRecording</key>
-			<real>613855338.16473103</real>
+			<real>613866239.70148206</real>
 			<key>title</key>
 			<string>Build Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>76B93AB7-7954-45E2-B497-AAF5263EED9A</string>
+			<string>34A04E15-7587-43CC-884C-75C4F7D600D5</string>
 		</dict>
-		<key>90B884CF-3832-4C6F-ADD8-761BB41F6654</key>
+		<key>3545D77A-C130-4080-813D-3AFBCD8BFDBF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -253,13 +253,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>90B884CF-3832-4C6F-ADD8-761BB41F6654.xcactivitylog</string>
+			<string>3545D77A-C130-4080-813D-3AFBCD8BFDBF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Daily Bias project</string>
@@ -270,15 +270,15 @@
 			<key>signature</key>
 			<string>Build Daily Bias</string>
 			<key>timeStartedRecording</key>
-			<real>613853976.62811196</real>
+			<real>613866560.83953094</real>
 			<key>timeStoppedRecording</key>
-			<real>613853978.161515</real>
+			<real>613866561.71259296</real>
 			<key>title</key>
 			<string>Build Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>90B884CF-3832-4C6F-ADD8-761BB41F6654</string>
+			<string>3545D77A-C130-4080-813D-3AFBCD8BFDBF</string>
 		</dict>
-		<key>A11196A9-6C57-4A7D-816C-A628FDB03B31</key>
+		<key>3C3B0A66-51FE-4F04-A480-627324FFBAC6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -287,13 +287,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>A11196A9-6C57-4A7D-816C-A628FDB03B31.xcactivitylog</string>
+			<string>3C3B0A66-51FE-4F04-A480-627324FFBAC6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Daily Bias project</string>
@@ -304,15 +304,15 @@
 			<key>signature</key>
 			<string>Build Daily Bias</string>
 			<key>timeStartedRecording</key>
-			<real>613854008.49998903</real>
+			<real>613867696.59284997</real>
 			<key>timeStoppedRecording</key>
-			<real>613854009.14052105</real>
+			<real>613867697.72445905</real>
 			<key>title</key>
 			<string>Build Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>A11196A9-6C57-4A7D-816C-A628FDB03B31</string>
+			<string>3C3B0A66-51FE-4F04-A480-627324FFBAC6</string>
 		</dict>
-		<key>AFCE642F-3B76-46AB-B5BD-09A17D1E9286</key>
+		<key>46F08AE3-7F3B-44CD-896D-C4C70E6084E5</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -321,13 +321,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>AFCE642F-3B76-46AB-B5BD-09A17D1E9286.xcactivitylog</string>
+			<string>46F08AE3-7F3B-44CD-896D-C4C70E6084E5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Daily Bias project</string>
@@ -338,15 +338,15 @@
 			<key>signature</key>
 			<string>Build Daily Bias</string>
 			<key>timeStartedRecording</key>
-			<real>613853834.87625301</real>
+			<real>613868192.87998402</real>
 			<key>timeStoppedRecording</key>
-			<real>613853836.56243205</real>
+			<real>613868193.80740404</real>
 			<key>title</key>
 			<string>Build Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>AFCE642F-3B76-46AB-B5BD-09A17D1E9286</string>
+			<string>46F08AE3-7F3B-44CD-896D-C4C70E6084E5</string>
 		</dict>
-		<key>BF8BAA94-743F-402F-90F7-8A9102B1142C</key>
+		<key>4C8E99A8-3821-4C29-BF75-B1DADE86FA17</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -355,13 +355,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BF8BAA94-743F-402F-90F7-8A9102B1142C.xcactivitylog</string>
+			<string>4C8E99A8-3821-4C29-BF75-B1DADE86FA17.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Daily Bias project</string>
@@ -372,15 +372,15 @@
 			<key>signature</key>
 			<string>Build Daily Bias</string>
 			<key>timeStartedRecording</key>
-			<real>613854775.58412004</real>
+			<real>613866508.22784102</real>
 			<key>timeStoppedRecording</key>
-			<real>613854777.41356206</real>
+			<real>613866509.08340096</real>
 			<key>title</key>
 			<string>Build Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>BF8BAA94-743F-402F-90F7-8A9102B1142C</string>
+			<string>4C8E99A8-3821-4C29-BF75-B1DADE86FA17</string>
 		</dict>
-		<key>C7B59F49-3CA2-430B-A749-51649630C0D6</key>
+		<key>87D7641F-DE4E-44F8-83EF-A4D2F0BC778D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -389,13 +389,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C7B59F49-3CA2-430B-A749-51649630C0D6.xcactivitylog</string>
+			<string>87D7641F-DE4E-44F8-83EF-A4D2F0BC778D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Daily Bias project</string>
@@ -406,13 +406,353 @@
 			<key>signature</key>
 			<string>Build Daily Bias</string>
 			<key>timeStartedRecording</key>
-			<real>613853654.25793004</real>
+			<real>613866364.05819798</real>
 			<key>timeStoppedRecording</key>
-			<real>613853654.97397602</real>
+			<real>613866364.93582201</real>
 			<key>title</key>
 			<string>Build Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>C7B59F49-3CA2-430B-A749-51649630C0D6</string>
+			<string>87D7641F-DE4E-44F8-83EF-A4D2F0BC778D</string>
+		</dict>
+		<key>89964959-00CF-4799-8123-2B92790645F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>89964959-00CF-4799-8123-2B92790645F2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613866214.55614901</real>
+			<key>timeStoppedRecording</key>
+			<real>613866215.422809</real>
+			<key>title</key>
+			<string>Build Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>89964959-00CF-4799-8123-2B92790645F2</string>
+		</dict>
+		<key>958E964D-76E7-4884-AFE7-2A3D6F8C45A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>958E964D-76E7-4884-AFE7-2A3D6F8C45A3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613866298.24952698</real>
+			<key>timeStoppedRecording</key>
+			<real>613866299.08717704</real>
+			<key>title</key>
+			<string>Build Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>958E964D-76E7-4884-AFE7-2A3D6F8C45A3</string>
+		</dict>
+		<key>BC07F2BD-A94C-4670-80FD-F5A4B0AD013B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BC07F2BD-A94C-4670-80FD-F5A4B0AD013B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613866245.12258506</real>
+			<key>timeStoppedRecording</key>
+			<real>613866245.98369706</real>
+			<key>title</key>
+			<string>Build Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>BC07F2BD-A94C-4670-80FD-F5A4B0AD013B</string>
+		</dict>
+		<key>BFCDC180-D5ED-45F7-AFA9-3261AEAFFF52</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BFCDC180-D5ED-45F7-AFA9-3261AEAFFF52.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613866475.11242402</real>
+			<key>timeStoppedRecording</key>
+			<real>613866475.98892999</real>
+			<key>title</key>
+			<string>Build Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>BFCDC180-D5ED-45F7-AFA9-3261AEAFFF52</string>
+		</dict>
+		<key>CACCFAF8-A856-4B6F-8AC8-509249042F27</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CACCFAF8-A856-4B6F-8AC8-509249042F27.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613866315.55905199</real>
+			<key>timeStoppedRecording</key>
+			<real>613866316.47234094</real>
+			<key>title</key>
+			<string>Build Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>CACCFAF8-A856-4B6F-8AC8-509249042F27</string>
+		</dict>
+		<key>D81D1106-7A31-4EC6-9895-87D10507F07A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D81D1106-7A31-4EC6-9895-87D10507F07A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613868142.47424996</real>
+			<key>timeStoppedRecording</key>
+			<real>613868143.35018396</real>
+			<key>title</key>
+			<string>Build Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>D81D1106-7A31-4EC6-9895-87D10507F07A</string>
+		</dict>
+		<key>D83D27EC-D259-49D9-9843-2F212DCC494C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D83D27EC-D259-49D9-9843-2F212DCC494C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613866439.12849402</real>
+			<key>timeStoppedRecording</key>
+			<real>613866439.96387601</real>
+			<key>title</key>
+			<string>Build Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>D83D27EC-D259-49D9-9843-2F212DCC494C</string>
+		</dict>
+		<key>DE0FBD54-CD8F-47E8-B0C1-1CD4C16EE1A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE0FBD54-CD8F-47E8-B0C1-1CD4C16EE1A5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613866546.06150198</real>
+			<key>timeStoppedRecording</key>
+			<real>613866546.94067204</real>
+			<key>title</key>
+			<string>Build Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>DE0FBD54-CD8F-47E8-B0C1-1CD4C16EE1A5</string>
+		</dict>
+		<key>E03749C7-F6CA-4FA0-BA07-4C45CC339227</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E03749C7-F6CA-4FA0-BA07-4C45CC339227.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613866150.47806001</real>
+			<key>timeStoppedRecording</key>
+			<real>613866151.21737897</real>
+			<key>title</key>
+			<string>Build Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>E03749C7-F6CA-4FA0-BA07-4C45CC339227</string>
+		</dict>
+		<key>F6A63960-6846-42D9-BD00-30502CCCD7D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F6A63960-6846-42D9-BD00-30502CCCD7D0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613866033.69728398</real>
+			<key>timeStoppedRecording</key>
+			<real>613866034.50593197</real>
+			<key>title</key>
+			<string>Build Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>F6A63960-6846-42D9-BD00-30502CCCD7D0</string>
 		</dict>
 	</dict>
 </dict>

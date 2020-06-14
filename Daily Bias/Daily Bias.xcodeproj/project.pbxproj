@@ -12,6 +12,23 @@
 		178ECCD72496AD4B009D54D2 /* Alarm.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 178ECCD62496AD4A009D54D2 /* Alarm.storyboard */; };
 		178ECCD92496AE95009D54D2 /* Search.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 178ECCD82496AE95009D54D2 /* Search.storyboard */; };
 		178ECCDB2496AFB2009D54D2 /* Explore.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 178ECCDA2496AFB2009D54D2 /* Explore.storyboard */; };
+		178ECCDD2496B3BA009D54D2 /* Alarm in Resources */ = {isa = PBXBuildFile; fileRef = 178ECCDC2496B3BA009D54D2 /* Alarm */; };
+		178ECCE12496B71D009D54D2 /* MainAlarmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCE02496B71D009D54D2 /* MainAlarmViewController.swift */; };
+		178ECCE32496B72A009D54D2 /* AlarmAddEditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCE22496B72A009D54D2 /* AlarmAddEditViewController.swift */; };
+		178ECCE52496B734009D54D2 /* MediaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCE42496B734009D54D2 /* MediaViewController.swift */; };
+		178ECCE72496B73F009D54D2 /* WeekdaysViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCE62496B73F009D54D2 /* WeekdaysViewController.swift */; };
+		178ECCE92496B74B009D54D2 /* LabelEditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCE82496B74B009D54D2 /* LabelEditViewController.swift */; };
+		178ECCEB2496B75F009D54D2 /* AlarmModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCEA2496B75F009D54D2 /* AlarmModel.swift */; };
+		178ECCED2496B769009D54D2 /* SegueInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCEC2496B769009D54D2 /* SegueInfo.swift */; };
+		178ECCEF2496B79D009D54D2 /* UIWindow+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCEE2496B79D009D54D2 /* UIWindow+Extension.swift */; };
+		178ECCF12496B7A5009D54D2 /* NotificationName+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCF02496B7A5009D54D2 /* NotificationName+Extension.swift */; };
+		178ECCF42496B80A009D54D2 /* Persistable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCF32496B80A009D54D2 /* Persistable.swift */; };
+		178ECCF62496B814009D54D2 /* PropertyReflectable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCF52496B814009D54D2 /* PropertyReflectable.swift */; };
+		178ECCF82496B81E009D54D2 /* AlarmApplicationDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCF72496B81E009D54D2 /* AlarmApplicationDelegate.swift */; };
+		178ECCFA2496B82A009D54D2 /* AlarmSchedulerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECCF92496B829009D54D2 /* AlarmSchedulerDelegate.swift */; };
+		178ECCFD2496B8A0009D54D2 /* bell.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 178ECCFC2496B8A0009D54D2 /* bell.mp3 */; };
+		178ECD012496E073009D54D2 /* SchedulerTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECD002496E073009D54D2 /* SchedulerTestCase.swift */; };
+		178ECD0B2496E263009D54D2 /* Daily_BiasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178ECD0A2496E263009D54D2 /* Daily_BiasUITests.swift */; };
 		181D0F6E243848B9008E3B27 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181D0F6D243848B9008E3B27 /* AppDelegate.swift */; };
 		181D0F70243848B9008E3B27 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181D0F6F243848B9008E3B27 /* SceneDelegate.swift */; };
 		181D0F72243848B9008E3B27 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181D0F71243848B9008E3B27 /* ViewController.swift */; };
@@ -24,12 +41,42 @@
 		181D0F8D24386F6B008E3B27 /* pictures.json in Resources */ = {isa = PBXBuildFile; fileRef = 181D0F8C24386F6B008E3B27 /* pictures.json */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		178ECD0D2496E263009D54D2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 181D0F62243848B9008E3B27 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 181D0F69243848B9008E3B27;
+			remoteInfo = "Daily Bias";
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
 		178ECCD22495C547009D54D2 /* SearchBiasTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBiasTableViewController.swift; sourceTree = "<group>"; };
 		178ECCD42495DDB5009D54D2 /* BiasDefinitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BiasDefinitionViewController.swift; sourceTree = "<group>"; };
 		178ECCD62496AD4A009D54D2 /* Alarm.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Alarm.storyboard; sourceTree = "<group>"; };
 		178ECCD82496AE95009D54D2 /* Search.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Search.storyboard; sourceTree = "<group>"; };
 		178ECCDA2496AFB2009D54D2 /* Explore.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Explore.storyboard; sourceTree = "<group>"; };
+		178ECCDC2496B3BA009D54D2 /* Alarm */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Alarm; sourceTree = "<group>"; };
+		178ECCE02496B71D009D54D2 /* MainAlarmViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainAlarmViewController.swift; sourceTree = "<group>"; };
+		178ECCE22496B72A009D54D2 /* AlarmAddEditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmAddEditViewController.swift; sourceTree = "<group>"; };
+		178ECCE42496B734009D54D2 /* MediaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaViewController.swift; sourceTree = "<group>"; };
+		178ECCE62496B73F009D54D2 /* WeekdaysViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeekdaysViewController.swift; sourceTree = "<group>"; };
+		178ECCE82496B74B009D54D2 /* LabelEditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelEditViewController.swift; sourceTree = "<group>"; };
+		178ECCEA2496B75F009D54D2 /* AlarmModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmModel.swift; sourceTree = "<group>"; };
+		178ECCEC2496B769009D54D2 /* SegueInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegueInfo.swift; sourceTree = "<group>"; };
+		178ECCEE2496B79D009D54D2 /* UIWindow+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIWindow+Extension.swift"; sourceTree = "<group>"; };
+		178ECCF02496B7A5009D54D2 /* NotificationName+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NotificationName+Extension.swift"; sourceTree = "<group>"; };
+		178ECCF32496B80A009D54D2 /* Persistable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Persistable.swift; sourceTree = "<group>"; };
+		178ECCF52496B814009D54D2 /* PropertyReflectable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyReflectable.swift; sourceTree = "<group>"; };
+		178ECCF72496B81E009D54D2 /* AlarmApplicationDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmApplicationDelegate.swift; sourceTree = "<group>"; };
+		178ECCF92496B829009D54D2 /* AlarmSchedulerDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmSchedulerDelegate.swift; sourceTree = "<group>"; };
+		178ECCFC2496B8A0009D54D2 /* bell.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bell.mp3; sourceTree = "<group>"; };
+		178ECCFE2496B8AD009D54D2 /* tickle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tickle.mp3; sourceTree = "<group>"; };
+		178ECD002496E073009D54D2 /* SchedulerTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchedulerTestCase.swift; sourceTree = "<group>"; };
+		178ECD082496E263009D54D2 /* Daily BiasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Daily BiasUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		178ECD0A2496E263009D54D2 /* Daily_BiasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Daily_BiasUITests.swift; sourceTree = "<group>"; };
+		178ECD0C2496E263009D54D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		181D0F6A243848B9008E3B27 /* Daily Bias.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Daily Bias.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		181D0F6D243848B9008E3B27 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		181D0F6F243848B9008E3B27 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -45,6 +92,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		178ECD052496E263009D54D2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		181D0F67243848B9008E3B27 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -55,10 +109,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		178ECCF22496B7D6009D54D2 /* Protocol */ = {
+			isa = PBXGroup;
+			children = (
+				178ECCF92496B829009D54D2 /* AlarmSchedulerDelegate.swift */,
+				178ECCF72496B81E009D54D2 /* AlarmApplicationDelegate.swift */,
+				178ECCF32496B80A009D54D2 /* Persistable.swift */,
+				178ECCF52496B814009D54D2 /* PropertyReflectable.swift */,
+			);
+			path = Protocol;
+			sourceTree = "<group>";
+		};
+		178ECCFB2496B879009D54D2 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				178ECD002496E073009D54D2 /* SchedulerTestCase.swift */,
+				178ECCFE2496B8AD009D54D2 /* tickle.mp3 */,
+				178ECCFC2496B8A0009D54D2 /* bell.mp3 */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		178ECD092496E263009D54D2 /* Daily BiasUITests */ = {
+			isa = PBXGroup;
+			children = (
+				178ECD0A2496E263009D54D2 /* Daily_BiasUITests.swift */,
+				178ECD0C2496E263009D54D2 /* Info.plist */,
+			);
+			path = "Daily BiasUITests";
+			sourceTree = "<group>";
+		};
 		181D0F61243848B9008E3B27 = {
 			isa = PBXGroup;
 			children = (
 				181D0F6C243848B9008E3B27 /* Daily Bias */,
+				178ECD092496E263009D54D2 /* Daily BiasUITests */,
 				181D0F6B243848B9008E3B27 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -67,6 +152,7 @@
 			isa = PBXGroup;
 			children = (
 				181D0F6A243848B9008E3B27 /* Daily Bias.app */,
+				178ECD082496E263009D54D2 /* Daily BiasUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -74,6 +160,7 @@
 		181D0F6C243848B9008E3B27 /* Daily Bias */ = {
 			isa = PBXGroup;
 			children = (
+				178ECCDC2496B3BA009D54D2 /* Alarm */,
 				181D0F85243848E3008E3B27 /* Models */,
 				181D0F84243848E0008E3B27 /* Controllers */,
 				181D0F83243848DE008E3B27 /* Views */,
@@ -93,6 +180,7 @@
 				181D0F7B243848BC008E3B27 /* Info.plist */,
 				181D0F88243849F0008E3B27 /* cognitiveBiases.json */,
 				181D0F8C24386F6B008E3B27 /* pictures.json */,
+				178ECCFB2496B879009D54D2 /* Supporting Files */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -100,7 +188,10 @@
 		181D0F82243848DB008E3B27 /* Helper */ = {
 			isa = PBXGroup;
 			children = (
+				178ECCF02496B7A5009D54D2 /* NotificationName+Extension.swift */,
+				178ECCEE2496B79D009D54D2 /* UIWindow+Extension.swift */,
 				181D0F8A24384A84008E3B27 /* Bundle-Decoding.swift */,
+				178ECCF22496B7D6009D54D2 /* Protocol */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -119,6 +210,11 @@
 		181D0F84243848E0008E3B27 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				178ECCE82496B74B009D54D2 /* LabelEditViewController.swift */,
+				178ECCE62496B73F009D54D2 /* WeekdaysViewController.swift */,
+				178ECCE42496B734009D54D2 /* MediaViewController.swift */,
+				178ECCE22496B72A009D54D2 /* AlarmAddEditViewController.swift */,
+				178ECCE02496B71D009D54D2 /* MainAlarmViewController.swift */,
 				181D0F71243848B9008E3B27 /* ViewController.swift */,
 				178ECCD22495C547009D54D2 /* SearchBiasTableViewController.swift */,
 				178ECCD42495DDB5009D54D2 /* BiasDefinitionViewController.swift */,
@@ -129,6 +225,8 @@
 		181D0F85243848E3008E3B27 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				178ECCEC2496B769009D54D2 /* SegueInfo.swift */,
+				178ECCEA2496B75F009D54D2 /* AlarmModel.swift */,
 				181D0F8624384932008E3B27 /* Bias.swift */,
 			);
 			path = Models;
@@ -137,6 +235,24 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		178ECD072496E263009D54D2 /* Daily BiasUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 178ECD0F2496E263009D54D2 /* Build configuration list for PBXNativeTarget "Daily BiasUITests" */;
+			buildPhases = (
+				178ECD042496E263009D54D2 /* Sources */,
+				178ECD052496E263009D54D2 /* Frameworks */,
+				178ECD062496E263009D54D2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				178ECD0E2496E263009D54D2 /* PBXTargetDependency */,
+			);
+			name = "Daily BiasUITests";
+			productName = "Daily BiasUITests";
+			productReference = 178ECD082496E263009D54D2 /* Daily BiasUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
 		181D0F69243848B9008E3B27 /* Daily Bias */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 181D0F7E243848BC008E3B27 /* Build configuration list for PBXNativeTarget "Daily Bias" */;
@@ -160,10 +276,14 @@
 		181D0F62243848B9008E3B27 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1140;
+				LastSwiftUpdateCheck = 1150;
 				LastUpgradeCheck = 1140;
 				ORGANIZATIONNAME = "Jordan Crandell";
 				TargetAttributes = {
+					178ECD072496E263009D54D2 = {
+						CreatedOnToolsVersion = 11.5;
+						TestTargetID = 181D0F69243848B9008E3B27;
+					};
 					181D0F69243848B9008E3B27 = {
 						CreatedOnToolsVersion = 11.4;
 					};
@@ -183,21 +303,31 @@
 			projectRoot = "";
 			targets = (
 				181D0F69243848B9008E3B27 /* Daily Bias */,
+				178ECD072496E263009D54D2 /* Daily BiasUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		178ECD062496E263009D54D2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		181D0F68243848B9008E3B27 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				178ECCDB2496AFB2009D54D2 /* Explore.storyboard in Resources */,
+				178ECCFD2496B8A0009D54D2 /* bell.mp3 in Resources */,
 				178ECCD72496AD4B009D54D2 /* Alarm.storyboard in Resources */,
 				181D0F7A243848BC008E3B27 /* LaunchScreen.storyboard in Resources */,
 				181D0F77243848BC008E3B27 /* Assets.xcassets in Resources */,
 				181D0F75243848B9008E3B27 /* Main.storyboard in Resources */,
 				178ECCD92496AE95009D54D2 /* Search.storyboard in Resources */,
+				178ECCDD2496B3BA009D54D2 /* Alarm in Resources */,
 				181D0F89243849F0008E3B27 /* cognitiveBiases.json in Resources */,
 				181D0F8D24386F6B008E3B27 /* pictures.json in Resources */,
 			);
@@ -206,21 +336,51 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		178ECD042496E263009D54D2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				178ECD0B2496E263009D54D2 /* Daily_BiasUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		181D0F66243848B9008E3B27 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				181D0F8724384932008E3B27 /* Bias.swift in Sources */,
+				178ECCE92496B74B009D54D2 /* LabelEditViewController.swift in Sources */,
+				178ECCFA2496B82A009D54D2 /* AlarmSchedulerDelegate.swift in Sources */,
+				178ECCF62496B814009D54D2 /* PropertyReflectable.swift in Sources */,
+				178ECCE52496B734009D54D2 /* MediaViewController.swift in Sources */,
+				178ECCE32496B72A009D54D2 /* AlarmAddEditViewController.swift in Sources */,
+				178ECCE12496B71D009D54D2 /* MainAlarmViewController.swift in Sources */,
+				178ECCED2496B769009D54D2 /* SegueInfo.swift in Sources */,
+				178ECCF12496B7A5009D54D2 /* NotificationName+Extension.swift in Sources */,
+				178ECCF42496B80A009D54D2 /* Persistable.swift in Sources */,
 				178ECCD52495DDB5009D54D2 /* BiasDefinitionViewController.swift in Sources */,
+				178ECD012496E073009D54D2 /* SchedulerTestCase.swift in Sources */,
 				181D0F72243848B9008E3B27 /* ViewController.swift in Sources */,
 				181D0F6E243848B9008E3B27 /* AppDelegate.swift in Sources */,
 				181D0F70243848B9008E3B27 /* SceneDelegate.swift in Sources */,
 				178ECCD32495C547009D54D2 /* SearchBiasTableViewController.swift in Sources */,
+				178ECCF82496B81E009D54D2 /* AlarmApplicationDelegate.swift in Sources */,
+				178ECCEF2496B79D009D54D2 /* UIWindow+Extension.swift in Sources */,
+				178ECCE72496B73F009D54D2 /* WeekdaysViewController.swift in Sources */,
 				181D0F8B24384A84008E3B27 /* Bundle-Decoding.swift in Sources */,
+				178ECCEB2496B75F009D54D2 /* AlarmModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		178ECD0E2496E263009D54D2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 181D0F69243848B9008E3B27 /* Daily Bias */;
+			targetProxy = 178ECD0D2496E263009D54D2 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		181D0F73243848B9008E3B27 /* Main.storyboard */ = {
@@ -242,6 +402,46 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		178ECD102496E263009D54D2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3Y244BANUZ;
+				INFOPLIST_FILE = "Daily BiasUITests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "Jordan.Daily-BiasUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Daily Bias";
+			};
+			name = Debug;
+		};
+		178ECD112496E263009D54D2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3Y244BANUZ;
+				INFOPLIST_FILE = "Daily BiasUITests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "Jordan.Daily-BiasUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Daily Bias";
+			};
+			name = Release;
+		};
 		181D0F7C243848BC008E3B27 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -395,6 +595,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		178ECD0F2496E263009D54D2 /* Build configuration list for PBXNativeTarget "Daily BiasUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				178ECD102496E263009D54D2 /* Debug */,
+				178ECD112496E263009D54D2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		181D0F65243848B9008E3B27 /* Build configuration list for PBXProject "Daily Bias" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

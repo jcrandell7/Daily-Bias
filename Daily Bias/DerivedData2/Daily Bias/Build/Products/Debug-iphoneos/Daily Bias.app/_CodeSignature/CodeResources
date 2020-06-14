@@ -48,6 +48,86 @@
 		<data>
 		dVsuhObMHIZ71k8R+IBLeeBdFL4=
 		</data>
+		<key>Alarm/AlarmAddEditViewController.swift</key>
+		<data>
+		0LjuvZ1z8qKK7aQyUuCy8RPednM=
+		</data>
+		<key>Alarm/AlarmApplicationDelegate.swift</key>
+		<data>
+		4oTy4lipBWETaTWhZjTKaTcDkF4=
+		</data>
+		<key>Alarm/AlarmModel.swift</key>
+		<data>
+		E+CoMXF+x5OY+6xX3nvNne2yMZk=
+		</data>
+		<key>Alarm/AlarmSchedulerDelegate.swift</key>
+		<data>
+		H9pxQJ3wA1i6XjO85ykSc0NRXzk=
+		</data>
+		<key>Alarm/AppDelegate.swift</key>
+		<data>
+		vgoDobrBe/Xlyr6wR7FKjbFXA1U=
+		</data>
+		<key>Alarm/Identifier.swift</key>
+		<data>
+		xGzzGdFMMKaw8gmECQYYLJ2/DrE=
+		</data>
+		<key>Alarm/Images.xcassets/AppIcon.appiconset/Contents.json</key>
+		<data>
+		uQMAkVWniuBIC0LbE60g3nsmFqE=
+		</data>
+		<key>Alarm/LabelEditViewController.swift</key>
+		<data>
+		R4P84AFMuX1z88Qtv5oYZrNn2WI=
+		</data>
+		<key>Alarm/MainAlarmViewController.swift</key>
+		<data>
+		ImM5ukUD5VDJvXt3VKid3g3/WiQ=
+		</data>
+		<key>Alarm/MediaViewController.swift</key>
+		<data>
+		taH0Wy4B/fvsM6he+4pQaY8DlZM=
+		</data>
+		<key>Alarm/NotificationName+Extension.swift</key>
+		<data>
+		PPZyLMpmdYchoAjRJL7UW9jvq3E=
+		</data>
+		<key>Alarm/Persistable.swift</key>
+		<data>
+		elHx7brOqM8SiD0C5XMbvB4lJPA=
+		</data>
+		<key>Alarm/PropertyReflectable.swift</key>
+		<data>
+		ZV/tXVl3nLtTtm0oD8QfJ2zSsA8=
+		</data>
+		<key>Alarm/Scheduler.swift</key>
+		<data>
+		nKjpDLkuMtGIuZgtoTo/pPEzAg0=
+		</data>
+		<key>Alarm/SchedulerTestCase.swift</key>
+		<data>
+		ka7mCt06Xfp4u0zDenvCsMke+bA=
+		</data>
+		<key>Alarm/SegueInfo.swift</key>
+		<data>
+		pMinKhHLONuNhAaa1c0NIcHlnCE=
+		</data>
+		<key>Alarm/UIWindow+Extension.swift</key>
+		<data>
+		3MrsmhKfCUlpnpsCTaOWv2HRnmI=
+		</data>
+		<key>Alarm/WeekdaysViewController.swift</key>
+		<data>
+		tt7bwawu5v/n2RrJvuQ6faDAzjc=
+		</data>
+		<key>Alarm/bell.mp3</key>
+		<data>
+		KluaUIZP9B1PVWO/roqN/liVils=
+		</data>
+		<key>Alarm/tickle.mp3</key>
+		<data>
+		ahpH2LCGBRF4JJsvGa78p9GfnTc=
+		</data>
 		<key>Assets.car</key>
 		<data>
 		uwn1CqXdsVMsXSkwagIw/wfVm88=
@@ -98,19 +178,19 @@
 		</data>
 		<key>Search.storyboardc/UINavigationController-GCf-7e-aRp.nib</key>
 		<data>
-		P7oiSRXGixqggScwm+wjjJlT/oc=
+		qmQ1wccoe0heiJTcmq/kYoWdKGs=
 		</data>
 		<key>Search.storyboardc/UIViewController-p9s-vx-qqV.nib</key>
 		<data>
-		m2OcpOs3MUe+lE0UVN5tvkQF3eU=
+		f/hFywLeb1ndIJ2U8Eb/91eDNGY=
 		</data>
 		<key>Search.storyboardc/hsz-K7-PSn-view-dvD-Od-4qf.nib</key>
 		<data>
-		XP2CeZNjk3mbu2Xliht6CslvdtY=
+		Vai2SlNuaJCLYeu64G3IcLoenl4=
 		</data>
 		<key>Search.storyboardc/p9s-vx-qqV-view-PDF-z0-3ab.nib</key>
 		<data>
-		CvQ4aLHAaMGMAc0aaAj0NNwxQTY=
+		5yRxRTPI7bCRNjHfizR/CTbp6HA=
 		</data>
 		<key>cognitiveBiases.json</key>
 		<data>
@@ -204,6 +284,146 @@
 			NFQrdJN67VqImDXl6P0Q0wQTTMWrW4lOXvIhrKZ0NNM=
 			</data>
 		</dict>
+		<key>Alarm/AlarmAddEditViewController.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5kD78xFLszWNcprmkdmWtf3VtIk8SqSVPkqRcM1Y1eA=
+			</data>
+		</dict>
+		<key>Alarm/AlarmApplicationDelegate.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jYttffYndj/aWjpA2pRxD7DQ519dSRhqijLjBkpnGSo=
+			</data>
+		</dict>
+		<key>Alarm/AlarmModel.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YG0L8w5QWzR/A92gQAu9CgTiQIzxfyrGrvZ9hmm9VEM=
+			</data>
+		</dict>
+		<key>Alarm/AlarmSchedulerDelegate.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			igXp/LpHIkCo+RDLhOsMMVBOpD0Vt17Xon5Yz2ydBDI=
+			</data>
+		</dict>
+		<key>Alarm/AppDelegate.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IEnoUGLV2oUqEZzrLXhL1RwPti42/7pGo9mh9RfZ5ow=
+			</data>
+		</dict>
+		<key>Alarm/Identifier.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ELubt1/+hV1O8Xe0hCSipyQdmsTq4TTaI6Dl7O9U9Ds=
+			</data>
+		</dict>
+		<key>Alarm/Images.xcassets/AppIcon.appiconset/Contents.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bSeJqnGsQqXHdTBrRsRWCcmmJ9oTXsRo9RlUTFCf+hk=
+			</data>
+		</dict>
+		<key>Alarm/LabelEditViewController.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CiiUD/3glBiyyJoj8twaLofOI82Ttnc44quERfNfQE0=
+			</data>
+		</dict>
+		<key>Alarm/MainAlarmViewController.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kGdkqx4SEf0Lea9a0o6xzfb1PW2kV7T9qgPqSPyAF6E=
+			</data>
+		</dict>
+		<key>Alarm/MediaViewController.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oNLhfjikwYj3ABbK+gDYSRyUUf2Nms31wWsMqFSM+dI=
+			</data>
+		</dict>
+		<key>Alarm/NotificationName+Extension.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vhn2MxW5BY2UhWGs5CmBPKzHDEL2B6ewW1Q3jNlpmGc=
+			</data>
+		</dict>
+		<key>Alarm/Persistable.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LMfXk5CYq8hH9rqOAq3HAYS48hP1J5Klw82iIwUCuWw=
+			</data>
+		</dict>
+		<key>Alarm/PropertyReflectable.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EJt6txeij9IQEiyLBpQql1JNerKDV4+REFTLGJWHQIM=
+			</data>
+		</dict>
+		<key>Alarm/Scheduler.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0Vklm3q4a9y34zFYfBbCsS45c7Vw2rfUL3JXC9dHhqo=
+			</data>
+		</dict>
+		<key>Alarm/SchedulerTestCase.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fBIG9WD9nct/4rB2m7N4965HM36fP4IwqHiwQwybxoI=
+			</data>
+		</dict>
+		<key>Alarm/SegueInfo.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Pknk4mzy2H1/J/7yJbj0cs7s83zpoo9SPLmCgqFfCmA=
+			</data>
+		</dict>
+		<key>Alarm/UIWindow+Extension.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ooz2LcAjxwG0YYunchmWMpjzxR3letQ+9STzf6lHa9s=
+			</data>
+		</dict>
+		<key>Alarm/WeekdaysViewController.swift</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9ZW2eFRf7UQjJ0JA+ecsSJ5CsR/jZZ2rPZGA0E5CjrM=
+			</data>
+		</dict>
+		<key>Alarm/bell.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QIB+xPO6pOd+DLu2Rt/PYAw/fR1gB2aKnP5p4XtyFYk=
+			</data>
+		</dict>
+		<key>Alarm/tickle.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y2C1zk4EnZGDZpvwnh2A4qQ1M3LOY/SLh3cJdq6uCw0=
+			</data>
+		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
@@ -278,28 +498,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BoFCcHEgZ+xPlU1VLBK1NeRhhAy7u02aTQ6zIN0bD0o=
+			v0eGHP99EJEP0Cl9L8becafreBp1PfWKVH8Di61h6HM=
 			</data>
 		</dict>
 		<key>Search.storyboardc/UIViewController-p9s-vx-qqV.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7GOoRZi1MpWJIQOhXFvu9sQaYzj0X33QBT1s8/4b6sY=
+			Mk8ZvGyyolv0TN/bBnp9qdL03uGBdkZzR8/gcDGQ+qE=
 			</data>
 		</dict>
 		<key>Search.storyboardc/hsz-K7-PSn-view-dvD-Od-4qf.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2bIxzdgmL1Jzk9YJVqnTakwOXleKannOyXIQH7YGNSM=
+			y4+5ylLcLUV3LaNKtHk8jdc8hJ4EpMHh/pG5DWrDYeI=
 			</data>
 		</dict>
 		<key>Search.storyboardc/p9s-vx-qqV-view-PDF-z0-3ab.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KiCbDCn7BO+x1CSrEnr33aqL8WlZrgPtztRV82yQuns=
+			UdYQ6HCyXU/sj+FNi4KIRoCDqBGDFOrGbtWeFn5m4RQ=
 			</data>
 		</dict>
 		<key>cognitiveBiases.json</key>

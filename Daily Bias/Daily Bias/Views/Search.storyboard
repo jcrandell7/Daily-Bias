@@ -76,7 +76,7 @@
                                     </subviews>
                                 </tableViewCellContentView>
                                 <connections>
-                                    <segue destination="p9s-vx-qqV" kind="show" id="Bjy-6b-kgM"/>
+                                    <segue destination="p9s-vx-qqV" kind="show" identifier="ToBiasDefinitionView" id="Bjy-6b-kgM"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
