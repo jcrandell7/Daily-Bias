@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "077fef3c2eec9fc8e765f1736fa0061d"
+build_time: [1592111353, 90269000]
+inputs:
+  "/Users/jordan/Code/PersonalProjects/IOS/Daily-Bias/Daily Bias/Daily Bias/Models/Bias.swift": [1592095794, 431749367]
+  "/Users/jordan/Code/PersonalProjects/IOS/Daily-Bias/Daily Bias/Daily Bias/Controllers/BiasDefinitionViewController.swift": [1592111353, 24410081]
+  "/Users/jordan/Code/PersonalProjects/IOS/Daily-Bias/Daily Bias/Daily Bias/Controllers/ViewController.swift": [1592104088, 766554570]
+  "/Users/jordan/Code/PersonalProjects/IOS/Daily-Bias/Daily Bias/Daily Bias/Resources/AppDelegate.swift": [1592095794, 431957658]
+  "/Users/jordan/Code/PersonalProjects/IOS/Daily-Bias/Daily Bias/Daily Bias/Resources/SceneDelegate.swift": [1592095794, 439101811]
+  "/Users/jordan/Code/PersonalProjects/IOS/Daily-Bias/Daily Bias/Daily Bias/Controllers/SearchBiasTableViewController.swift": [1592110585, 829866736]
+  "/Users/jordan/Code/PersonalProjects/IOS/Daily-Bias/Daily Bias/Daily Bias/Helper/Bundle-Decoding.swift": [1592095794, 431565621]
