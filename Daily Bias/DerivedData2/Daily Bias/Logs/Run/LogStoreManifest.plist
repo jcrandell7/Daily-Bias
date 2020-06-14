@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>102F789C-9845-422F-B306-14F2546D3C64</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>102F789C-9845-422F-B306-14F2546D3C64.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613854777.416834</real>
+			<key>timeStoppedRecording</key>
+			<real>613854793.63256395</real>
+			<key>title</key>
+			<string>Run Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>102F789C-9845-422F-B306-14F2546D3C64</string>
+		</dict>
 		<key>15F76CA9-7F51-41C2-81DD-64FD1FDB7FA6</key>
 		<dict>
 			<key>className</key>
@@ -176,6 +210,40 @@
 			<key>uniqueIdentifier</key>
 			<string>B5FED7F2-1627-438E-AE56-2D1A3BF6AB97</string>
 		</dict>
+		<key>C01D8638-E804-4181-B57A-CBD01874CACF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C01D8638-E804-4181-B57A-CBD01874CACF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613855494.09103703</real>
+			<key>timeStoppedRecording</key>
+			<real>613855660.42864895</real>
+			<key>title</key>
+			<string>Run Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>C01D8638-E804-4181-B57A-CBD01874CACF</string>
+		</dict>
 		<key>DC1E6972-724F-4BF5-A880-5D499D084B7F</key>
 		<dict>
 			<key>className</key>
@@ -244,6 +312,40 @@
 			<key>uniqueIdentifier</key>
 			<string>E0687D25-77C4-4380-A41C-9B8C1BF2E81B</string>
 		</dict>
+		<key>EA8E0EB3-C195-475E-AFB7-3BC15E6594A7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EA8E0EB3-C195-475E-AFB7-3BC15E6594A7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613855298.87532198</real>
+			<key>timeStoppedRecording</key>
+			<real>613855338.31579399</real>
+			<key>title</key>
+			<string>Run Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>EA8E0EB3-C195-475E-AFB7-3BC15E6594A7</string>
+		</dict>
 		<key>F593A3D5-1523-48DD-AEF3-DC1DCAEAFECA</key>
 		<dict>
 			<key>className</key>
@@ -277,6 +379,40 @@
 			<string>Run Daily Bias</string>
 			<key>uniqueIdentifier</key>
 			<string>F593A3D5-1523-48DD-AEF3-DC1DCAEAFECA</string>
+		</dict>
+		<key>F6144B22-32DB-42C0-A79A-1396FC6C59DC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F6144B22-32DB-42C0-A79A-1396FC6C59DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Daily Bias project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Daily Bias</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Daily Bias</string>
+			<key>timeStartedRecording</key>
+			<real>613855338.16769695</real>
+			<key>timeStoppedRecording</key>
+			<real>613855492.96101296</real>
+			<key>title</key>
+			<string>Run Daily Bias</string>
+			<key>uniqueIdentifier</key>
+			<string>F6144B22-32DB-42C0-A79A-1396FC6C59DC</string>
 		</dict>
 	</dict>
 </dict>

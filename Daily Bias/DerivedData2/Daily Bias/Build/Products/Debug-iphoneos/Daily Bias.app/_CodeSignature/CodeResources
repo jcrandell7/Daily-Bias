@@ -4,6 +4,50 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Alarm.storyboardc/Eno-9x-e90-view-m9o-6m-IR4.nib</key>
+		<data>
+		bo2oZtrp0LIuSwG+mzXn9azQSqw=
+		</data>
+		<key>Alarm.storyboardc/Hc0-91-jHo-view-rgy-dr-CTb.nib</key>
+		<data>
+		VAKx3Yif2V4aleu3XF9WNFc+mCY=
+		</data>
+		<key>Alarm.storyboardc/Info.plist</key>
+		<data>
+		v/NRk1Z2yKCSX0VrSAYdFLy6Vfs=
+		</data>
+		<key>Alarm.storyboardc/MmK-Sj-jZ1-view-6An-0O-Yah.nib</key>
+		<data>
+		DWSufwn8S/IvvPSWb/cCFDGOr08=
+		</data>
+		<key>Alarm.storyboardc/QpM-GR-Mpm-view-lZ9-bY-kKX.nib</key>
+		<data>
+		g7sILlHdR4k3YCzWpRGKd2ISW2U=
+		</data>
+		<key>Alarm.storyboardc/TFz-Z9-qBx-view-bQK-Ff-qGY.nib</key>
+		<data>
+		gZQYogs3fuTS0DpK3dNc0KkP7+o=
+		</data>
+		<key>Alarm.storyboardc/UINavigationController-XKb-lA-7Db.nib</key>
+		<data>
+		zXNcCJisooLNwUGsYh8R8AG0nfE=
+		</data>
+		<key>Alarm.storyboardc/UINavigationController-mRm-tb-2g0.nib</key>
+		<data>
+		M3WJO3HvJaU2WhePyDZLxLyBOSg=
+		</data>
+		<key>Alarm.storyboardc/UITableViewController-MmK-Sj-jZ1.nib</key>
+		<data>
+		lupHnmCedFLwvAu+M1IQ3kGy8CY=
+		</data>
+		<key>Alarm.storyboardc/UITableViewController-QpM-GR-Mpm.nib</key>
+		<data>
+		irXBh6/0UXEJ5BK2xsqAQOG7JNU=
+		</data>
+		<key>Alarm.storyboardc/UIViewController-Eno-9x-e90.nib</key>
+		<data>
+		dVsuhObMHIZ71k8R+IBLeeBdFL4=
+		</data>
 		<key>Assets.car</key>
 		<data>
 		uwn1CqXdsVMsXSkwagIw/wfVm88=
@@ -20,29 +64,25 @@
 		<data>
 		Ciwa8TrMKJ6LWfEVO2opnIIl1h8=
 		</data>
-		<key>Base.lproj/Main.storyboardc/4EI-lv-D4E-view-qEp-hk-IpA.nib</key>
-		<data>
-		1nJrczcb8YfqqPQ4Wkplxn6xs20=
-		</data>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
-		<data>
-		lTmMxs9WZ4wTHypzOFp62RSvTbA=
-		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		yf/VvQpFMPue3m5K4h4f1x/YE6w=
+		EE6vwEh8yHmysCPgihe1SqxRS/Y=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UITabBarController-qPm-ud-ho0.nib</key>
 		<data>
-		yegD7eAFz0bvWS64zJVREqyv7jk=
+		cRo/VjiOBev/DYf50BWvrGBAt/8=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-4EI-lv-D4E.nib</key>
+		<key>Explore.storyboardc/97E-Ig-TAH-view-mhe-CC-uLz.nib</key>
 		<data>
-		fcY0RUSplei48QKgnCQgBOPV1i8=
+		WbDdc2RnJRTIXdef6WBBLwoeabQ=
 		</data>
-		<key>Base.lproj/Main.storyboardc/sQb-Pn-PQo-view-wGX-II-BGD.nib</key>
+		<key>Explore.storyboardc/Info.plist</key>
 		<data>
-		qstonqaJth9IySrkKlAS3vYNtdQ=
+		rnnKFI96FYtVU2KHzWrN8n8EqJo=
+		</data>
+		<key>Explore.storyboardc/UINavigationController-4dl-Wg-w7l.nib</key>
+		<data>
+		OUxR79KIE1yAfYcb5mh+0JcJgCg=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -51,6 +91,26 @@
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Search.storyboardc/Info.plist</key>
+		<data>
+		ORm5pJDkiTdBA+12ejBwJl5IqE4=
+		</data>
+		<key>Search.storyboardc/UINavigationController-GCf-7e-aRp.nib</key>
+		<data>
+		P7oiSRXGixqggScwm+wjjJlT/oc=
+		</data>
+		<key>Search.storyboardc/UIViewController-p9s-vx-qqV.nib</key>
+		<data>
+		m2OcpOs3MUe+lE0UVN5tvkQF3eU=
+		</data>
+		<key>Search.storyboardc/hsz-K7-PSn-view-dvD-Od-4qf.nib</key>
+		<data>
+		XP2CeZNjk3mbu2Xliht6CslvdtY=
+		</data>
+		<key>Search.storyboardc/p9s-vx-qqV-view-PDF-z0-3ab.nib</key>
+		<data>
+		CvQ4aLHAaMGMAc0aaAj0NNwxQTY=
 		</data>
 		<key>cognitiveBiases.json</key>
 		<data>
@@ -67,6 +127,83 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Alarm.storyboardc/Eno-9x-e90-view-m9o-6m-IR4.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pma+n4loPHwni7iP4V1dXYDoc2yUErttmbQa3hHXT3U=
+			</data>
+		</dict>
+		<key>Alarm.storyboardc/Hc0-91-jHo-view-rgy-dr-CTb.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mudPTfxxkeI/Gy6lkW/7wXMemWsUTwLMAMaNEU0jjic=
+			</data>
+		</dict>
+		<key>Alarm.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qg5iYaCjHEuTALZo/bzQIMOjCHycUmSCDMlOh48hmZ0=
+			</data>
+		</dict>
+		<key>Alarm.storyboardc/MmK-Sj-jZ1-view-6An-0O-Yah.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dv8RMhy+JZ0O9mMkDbI+oG41lowGFfF77PV7aNjcEEw=
+			</data>
+		</dict>
+		<key>Alarm.storyboardc/QpM-GR-Mpm-view-lZ9-bY-kKX.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FqnL9NPMFQyTJ8a2w4luTaqZLm58BO6oasS5ft3kO0A=
+			</data>
+		</dict>
+		<key>Alarm.storyboardc/TFz-Z9-qBx-view-bQK-Ff-qGY.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NyOMs5vsNogftF6KmB96l+LFiPlsUKK4c+6UFR7tM/0=
+			</data>
+		</dict>
+		<key>Alarm.storyboardc/UINavigationController-XKb-lA-7Db.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			86yPuKO8ffryitVudXtNYYm8/r8K75nYzo95mVFV9b0=
+			</data>
+		</dict>
+		<key>Alarm.storyboardc/UINavigationController-mRm-tb-2g0.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BQ/mvbjxI/y1sWCDRhNcuk90Th/itkNZX6ofygxlgvE=
+			</data>
+		</dict>
+		<key>Alarm.storyboardc/UITableViewController-MmK-Sj-jZ1.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uFy6xwcj4QIoD9dnuXDyGtaVG/RuY0AqRHeKK3pP9gI=
+			</data>
+		</dict>
+		<key>Alarm.storyboardc/UITableViewController-QpM-GR-Mpm.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xqGgsF6fZ/c7mKfF89JOE2ObVvquCED78eb6HkWpJhk=
+			</data>
+		</dict>
+		<key>Alarm.storyboardc/UIViewController-Eno-9x-e90.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NFQrdJN67VqImDXl6P0Q0wQTTMWrW4lOXvIhrKZ0NNM=
+			</data>
+		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
@@ -95,46 +232,74 @@
 			ElSSMn9eZIFhojv7ehbsZXzJCi1eRecPnfxvieiPl4o=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/4EI-lv-D4E-view-qEp-hk-IpA.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qpOxhACETh25POgk1YgSHBk7Pb1Mt4fHR4NmfTy+ZBo=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+WLDcEB5D2YxT61CBmx8l3I2d29H9IFCf78fAMelHDw=
-			</data>
-		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rK7RKwPpWavswjgYDlTNpmzVDqWfQVRLEoBF4859kYE=
+			tOyAdj0CRbtZDPj9gwrJMcpRJSb57Z3x7r00uglgFyM=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UITabBarController-qPm-ud-ho0.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JvFFuIzWjbPd0lF3/M8EAAgLg1TvtdDiGU4xlnUz27Y=
+			m6IrZCJd9TKFxY//6ndxrICStjz0gkQdU2pkLb66GNQ=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-4EI-lv-D4E.nib</key>
+		<key>Explore.storyboardc/97E-Ig-TAH-view-mhe-CC-uLz.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sjhJ/1qdr2FCDVXG8nWQ40nMHzRzE6CzJ03qTjdg3as=
+			NYK/hoFTL1J8ZAKuruLxQfKcZ3iqJgn8m8qaKuIZot0=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/sQb-Pn-PQo-view-wGX-II-BGD.nib</key>
+		<key>Explore.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/F6IjkDFMzaup2Hvo2nMhtXLdg8EWOD9ObQOkCu0Rxc=
+			3QsME5nuupkEQdT+L3WCJAUnymux9ncsHha6amM7Tuk=
+			</data>
+		</dict>
+		<key>Explore.storyboardc/UINavigationController-4dl-Wg-w7l.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FcixkZzeizjache8MrOTjPo5mTOwrQqXXA4PLoWbGN0=
+			</data>
+		</dict>
+		<key>Search.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ykPjqzUWJTVeMtNQPP8XmGEVni40QkwHfjMd05VsFn0=
+			</data>
+		</dict>
+		<key>Search.storyboardc/UINavigationController-GCf-7e-aRp.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BoFCcHEgZ+xPlU1VLBK1NeRhhAy7u02aTQ6zIN0bD0o=
+			</data>
+		</dict>
+		<key>Search.storyboardc/UIViewController-p9s-vx-qqV.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7GOoRZi1MpWJIQOhXFvu9sQaYzj0X33QBT1s8/4b6sY=
+			</data>
+		</dict>
+		<key>Search.storyboardc/hsz-K7-PSn-view-dvD-Od-4qf.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2bIxzdgmL1Jzk9YJVqnTakwOXleKannOyXIQH7YGNSM=
+			</data>
+		</dict>
+		<key>Search.storyboardc/p9s-vx-qqV-view-PDF-z0-3ab.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KiCbDCn7BO+x1CSrEnr33aqL8WlZrgPtztRV82yQuns=
 			</data>
 		</dict>
 		<key>cognitiveBiases.json</key>
