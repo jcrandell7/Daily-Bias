@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>EAC99216-E365-4A0C-8F74-623A24353F18</key>
+		<key>FFE1609F-B9B8-40DB-9D30-DD91EF491409</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>EAC99216-E365-4A0C-8F74-623A24353F18.xcactivitylog</string>
+			<string>FFE1609F-B9B8-40DB-9D30-DD91EF491409.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>Daily_Bias-aiuysxbtapaqznexhnfuioflxztv</string>
 			<key>timeStartedRecording</key>
-			<real>613805047.34309804</real>
+			<real>613854008.55531001</real>
 			<key>timeStoppedRecording</key>
-			<real>613805047.82962799</real>
+			<real>613854009.13518202</real>
 			<key>title</key>
 			<string>Build target Daily Bias</string>
 			<key>uniqueIdentifier</key>
-			<string>EAC99216-E365-4A0C-8F74-623A24353F18</string>
+			<string>FFE1609F-B9B8-40DB-9D30-DD91EF491409</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

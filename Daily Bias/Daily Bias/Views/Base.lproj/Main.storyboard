@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="c3R-yw-CuI">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="qPm-ud-ho0">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
@@ -19,10 +19,10 @@
                                 <rect key="frame" x="0.0" y="88" width="414" height="808"/>
                             </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="pCQ-ec-OSf">
-                                <rect key="frame" x="0.0" y="88" width="414" height="774"/>
+                                <rect key="frame" x="0.0" y="88" width="414" height="725"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="irG-fB-WUK">
-                                <rect key="frame" x="311" y="832" width="80" height="30"/>
+                                <rect key="frame" x="311" y="783" width="80" height="30"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.57440603595890416" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="80" id="XUK-lC-abB"/>
@@ -51,13 +51,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Bias Title" id="MgH-IZ-46f">
-                        <barButtonItem key="rightBarButtonItem" systemItem="search" id="gtH-JZ-Ocq">
-                            <connections>
-                                <segue destination="sQb-Pn-PQo" kind="show" id="ogL-T0-x09"/>
-                            </connections>
-                        </barButtonItem>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" title="Bias Title" id="MgH-IZ-46f"/>
                     <connections>
                         <outlet property="background" destination="8m0-ur-liI" id="MDy-dS-58b"/>
                         <outlet property="bias" destination="pCQ-ec-OSf" id="xui-2X-bif"/>
@@ -65,13 +59,13 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1047.8260869565217" y="137.94642857142856"/>
+            <point key="canvasLocation" x="-580" y="138"/>
         </scene>
         <!--Search Bias Table View Controller-->
         <scene sceneID="gax-4y-3fg">
             <objects>
                 <tableViewController id="sQb-Pn-PQo" customClass="SearchBiasTableViewController" customModule="Daily_Bias" customModuleProvider="target" sceneMemberID="viewController">
-                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="wGX-II-BGD">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" keyboardDismissMode="onDrag" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="wGX-II-BGD">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
@@ -114,7 +108,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dFN-Ff-rdf" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1922" y="138"/>
+            <point key="canvasLocation" x="1583" y="138"/>
         </scene>
         <!--Bias Definition View Controller-->
         <scene sceneID="ViD-YO-RrA">
@@ -125,7 +119,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="vnc-ra-KEG">
-                                <rect key="frame" x="0.0" y="88" width="414" height="774"/>
+                                <rect key="frame" x="0.0" y="88" width="414" height="725"/>
                                 <color key="backgroundColor" systemColor="systemGray3Color" red="0.78039215689999997" green="0.78039215689999997" blue="0.80000000000000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
                                 <color key="textColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -152,12 +146,31 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rku-BB-gmb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2715.9420289855075" y="137.94642857142856"/>
+            <point key="canvasLocation" x="2322" y="138"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--Tab Bar Controller-->
+        <scene sceneID="Uij-pM-dJ4">
+            <objects>
+                <tabBarController id="qPm-ud-ho0" sceneMemberID="viewController">
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="7DB-vC-cMd">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="c3R-yw-CuI" kind="relationship" relationship="viewControllers" id="mMO-wv-9PJ"/>
+                        <segue destination="AXs-u0-BaV" kind="relationship" relationship="viewControllers" id="xkk-hx-ogh"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="l2v-2V-arG" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="138" y="-563"/>
+        </scene>
+        <!--Explore-->
         <scene sceneID="Udk-OD-U9m">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="c3R-yw-CuI" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Explore" image="safari" catalog="system" id="njF-BZ-hKf"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Ol7-sg-ZpX">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
@@ -176,7 +189,29 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ldO-zM-r71" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="137.68115942028987" y="137.94642857142856"/>
+            <point key="canvasLocation" x="-1333" y="138"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="Cg5-uE-GLj">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="AXs-u0-BaV" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" systemItem="search" id="jwl-DD-6ME"/>
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="MKX-KD-5p0">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="sQb-Pn-PQo" kind="relationship" relationship="rootViewController" id="RTh-Os-7u4"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="OxH-77-wNb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="812" y="138"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="safari" catalog="system" width="128" height="121"/>
+    </resources>
 </document>
