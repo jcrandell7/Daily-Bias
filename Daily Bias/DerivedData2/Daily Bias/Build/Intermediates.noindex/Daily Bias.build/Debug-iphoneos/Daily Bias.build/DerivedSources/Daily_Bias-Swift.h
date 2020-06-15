@@ -218,6 +218,7 @@ SWIFT_CLASS("_TtC10Daily_Bias11AppDelegate")
 @end
 
 @class UITextView;
+@class UIButton;
 @class NSBundle;
 @class NSCoder;
 
@@ -225,6 +226,7 @@ SWIFT_CLASS("_TtC10Daily_Bias28BiasDefinitionViewController")
 @interface BiasDefinitionViewController : UIViewController
 @property (nonatomic, weak) IBOutlet UITextView * _Null_unspecified BiasDefinitionUITextView;
 - (void)viewDidLoad;
+- (IBAction)ShareTapped:(UIButton * _Nonnull)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -272,7 +274,6 @@ SWIFT_CLASS("_TtC10Daily_Bias29SearchBiasTableViewController")
 @class UIImageView;
 @class UITouch;
 @class UIEvent;
-@class UIButton;
 
 SWIFT_CLASS("_TtC10Daily_Bias14ViewController")
 @interface ViewController : UIViewController

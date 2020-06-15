@@ -81,13 +81,13 @@ class ViewController: UIViewController {
     // MARK: - Sharing
     @IBAction func shareTapped(_ sender: UIButton) {
         guard let bias = shareBias else {
-            fatalError("Attempting to share a non-exsistent quote.")
-        }
-        
-        let shareMessage = "\"\(bias.title)\" - \(bias.text)"
-        let ac = UIActivityViewController(activityItems: [shareMessage], applicationActivities: nil)
-        ac.popoverPresentationController?.sourceView = sender
-        present(ac, animated: true)
+                   fatalError("Attempting to share a non-exsistent quote.")
+               }
+               
+               let shareMessage = "\"\(bias.title)\" - \(bias.text)"
+               let ac = UIActivityViewController(activityItems: [shareMessage], applicationActivities: nil)
+               ac.popoverPresentationController?.sourceView = sender
+               present(ac, animated: true)
     }
     
     // MARK: - Push Notifications

@@ -9,10 +9,10 @@
 import UIKit
 
 class BiasDefinitionViewController: UIViewController {
-
-    var bias: Bias?
     
+    var bias: Bias?
     @IBOutlet weak var BiasDefinitionUITextView: UITextView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         BiasDefinitionUITextView.alignTextVerticallyInContainer()
@@ -21,19 +21,20 @@ class BiasDefinitionViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+    @IBAction func ShareTapped(_ sender: UIButton) {
+        guard let selectedBias = bias else {
+            fatalError("Unable to read a quote.")
+        }
+        
+        let shareBias = selectedBias
+        let bias = shareBias
+           let shareMessage = "\"\(bias.title)\" - \(bias.text)"
+           let ac = UIActivityViewController(activityItems: [shareMessage], applicationActivities: nil)
+           ac.popoverPresentationController?.sourceView = sender
+           present(ac, animated: true)
     }
-    */
 
 }
-
 extension UITextView {
     func alignTextVerticallyInContainer() {
         var topCorrect = (self.bounds.size.height - self.contentSize.height * self.zoomScale) / 2

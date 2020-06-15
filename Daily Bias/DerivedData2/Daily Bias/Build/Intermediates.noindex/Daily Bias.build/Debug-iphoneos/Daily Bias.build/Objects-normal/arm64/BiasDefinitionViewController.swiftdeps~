@@ -11,6 +11,7 @@ provides-dynamic-lookup:
 - "BiasDefinitionUITextView"
 - "alignTextVerticallyInContainer"
 - "bias"
+- "shareTapped"
 - "viewDidLoad"
 depends-top-level:
 - !private "*"
@@ -20,20 +21,32 @@ depends-top-level:
 - "AssignmentPrecedence"
 - "Bias"
 - "BiasDefinitionViewController"
+- !private "BooleanLiteralType"
 - !private "FloatLiteralType"
 - !private "IntegerLiteralType"
+- !private "StringLiteralType"
 - "TernaryPrecedence"
+- !private "UIActivityViewController"
+- "UIButton"
 - "UITextView"
 - "UIViewController"
+- !private "UnicodeScalarType"
+- !private "bias"
+- !private "fatalError"
 depends-member:
 - !private ["10Daily_Bias0B0V", "text"]
 - !private ["10Daily_Bias0B0V", "title"]
 - ["10Daily_Bias0B24DefinitionViewControllerC", "Bias"]
 - ["10Daily_Bias0B24DefinitionViewControllerC", "BiasDefinitionUITextView"]
+- !private ["10Daily_Bias0B24DefinitionViewControllerC", "UIActivityViewController"]
+- ["10Daily_Bias0B24DefinitionViewControllerC", "UIButton"]
 - ["10Daily_Bias0B24DefinitionViewControllerC", "UITextView"]
 - ["10Daily_Bias0B24DefinitionViewControllerC", "bias"]
 - ["10Daily_Bias0B24DefinitionViewControllerC", "deinit"]
+- !private ["10Daily_Bias0B24DefinitionViewControllerC", "fatalError"]
 - ["10Daily_Bias0B24DefinitionViewControllerC", "init"]
+- !private ["10Daily_Bias0B24DefinitionViewControllerC", "present"]
+- ["10Daily_Bias0B24DefinitionViewControllerC", "shareTapped"]
 - !private ["10Daily_Bias0B24DefinitionViewControllerC", "title"]
 - ["10Daily_Bias0B24DefinitionViewControllerC", "viewDidLoad"]
 - !private ["So15CALayerDelegateP", "alignTextVerticallyInContainer"]
@@ -45,25 +58,37 @@ depends-member:
 - !private ["So6CGRectV", "size"]
 - !private ["So6CGSizeV", "height"]
 - !private ["s7CVarArgP", "BiasDefinitionUITextView"]
+- !private ["s7CVarArgP", "UIActivityViewController"]
 - ["s7CVarArgP", ""]
 - !private ["s7CVarArgP", "alignTextVerticallyInContainer"]
 - !private ["s7CVarArgP", "bias"]
 - !private ["s7CVarArgP", "bounds"]
 - !private ["s7CVarArgP", "contentInset"]
 - !private ["s7CVarArgP", "contentSize"]
+- !private ["s7CVarArgP", "fatalError"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "popoverPresentationController"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "sourceView"]
 - !private ["s7CVarArgP", "text"]
 - !private ["s7CVarArgP", "title"]
 - !private ["s7CVarArgP", "viewDidLoad"]
 - !private ["s7CVarArgP", "zoomScale"]
 - !private ["s28CustomDebugStringConvertibleP", "BiasDefinitionUITextView"]
+- !private ["s28CustomDebugStringConvertibleP", "UIActivityViewController"]
 - ["s28CustomDebugStringConvertibleP", ""]
 - !private ["s28CustomDebugStringConvertibleP", "alignTextVerticallyInContainer"]
 - !private ["s28CustomDebugStringConvertibleP", "bias"]
 - !private ["s28CustomDebugStringConvertibleP", "bounds"]
 - !private ["s28CustomDebugStringConvertibleP", "contentInset"]
 - !private ["s28CustomDebugStringConvertibleP", "contentSize"]
+- !private ["s28CustomDebugStringConvertibleP", "fatalError"]
 - !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "popoverPresentationController"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
 - !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "sourceView"]
 - !private ["s28CustomDebugStringConvertibleP", "text"]
 - !private ["s28CustomDebugStringConvertibleP", "title"]
 - !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
@@ -73,12 +98,20 @@ depends-member:
 - !private ["s17CustomReflectableP", "size"]
 - !private ["s17CustomReflectableP", "text"]
 - !private ["s23CustomStringConvertibleP", "BiasDefinitionUITextView"]
+- !private ["s23CustomStringConvertibleP", "UIActivityViewController"]
 - ["s23CustomStringConvertibleP", ""]
 - !private ["s23CustomStringConvertibleP", "alignTextVerticallyInContainer"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
 - !private ["s23CustomStringConvertibleP", "bias"]
 - !private ["s23CustomStringConvertibleP", "bounds"]
 - !private ["s23CustomStringConvertibleP", "contentInset"]
 - !private ["s23CustomStringConvertibleP", "contentSize"]
+- !private ["s23CustomStringConvertibleP", "fatalError"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "popoverPresentationController"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "sourceView"]
 - !private ["s23CustomStringConvertibleP", "text"]
 - !private ["s23CustomStringConvertibleP", "title"]
 - !private ["s23CustomStringConvertibleP", "viewDidLoad"]
@@ -89,6 +122,8 @@ depends-member:
 - !private ["Se", "text"]
 - !private ["Se", "title"]
 - !private ["Se", "top"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
 - !private ["SE", "alignTextVerticallyInContainer"]
 - !private ["SE", "height"]
 - !private ["SE", "size"]
@@ -96,14 +131,20 @@ depends-member:
 - !private ["SE", "title"]
 - !private ["SE", "top"]
 - !private ["SQ", "BiasDefinitionUITextView"]
+- !private ["SQ", "UIActivityViewController"]
 - ["SQ", ""]
 - !private ["SQ", "alignTextVerticallyInContainer"]
 - !private ["SQ", "bias"]
 - !private ["SQ", "bounds"]
 - !private ["SQ", "contentInset"]
 - !private ["SQ", "contentSize"]
+- !private ["SQ", "fatalError"]
 - !private ["SQ", "height"]
+- !private ["SQ", "init"]
+- !private ["SQ", "popoverPresentationController"]
+- !private ["SQ", "present"]
 - !private ["SQ", "size"]
+- !private ["SQ", "sourceView"]
 - !private ["SQ", "text"]
 - !private ["SQ", "title"]
 - !private ["SQ", "top"]
@@ -112,64 +153,99 @@ depends-member:
 - !private ["s23ExpressibleByNilLiteralP", "alignTextVerticallyInContainer"]
 - !private ["s23ExpressibleByNilLiteralP", "text"]
 - !private ["SH", "BiasDefinitionUITextView"]
+- !private ["SH", "UIActivityViewController"]
 - ["SH", ""]
 - !private ["SH", "alignTextVerticallyInContainer"]
 - !private ["SH", "bias"]
 - !private ["SH", "bounds"]
 - !private ["SH", "contentInset"]
 - !private ["SH", "contentSize"]
+- !private ["SH", "fatalError"]
+- !private ["SH", "init"]
+- !private ["SH", "popoverPresentationController"]
+- !private ["SH", "present"]
+- !private ["SH", "sourceView"]
 - !private ["SH", "text"]
 - !private ["SH", "title"]
 - !private ["SH", "viewDidLoad"]
 - !private ["SH", "zoomScale"]
 - !private ["So8NSCodingP", "BiasDefinitionUITextView"]
+- !private ["So8NSCodingP", "UIActivityViewController"]
 - ["So8NSCodingP", ""]
 - !private ["So8NSCodingP", "alignTextVerticallyInContainer"]
 - !private ["So8NSCodingP", "bias"]
 - !private ["So8NSCodingP", "bounds"]
 - !private ["So8NSCodingP", "contentInset"]
 - !private ["So8NSCodingP", "contentSize"]
+- !private ["So8NSCodingP", "fatalError"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "popoverPresentationController"]
+- !private ["So8NSCodingP", "present"]
 - !private ["So8NSCodingP", "text"]
 - !private ["So8NSCodingP", "title"]
 - !private ["So8NSCodingP", "viewDidLoad"]
 - !private ["So8NSCodingP", "zoomScale"]
 - !private ["So26NSExtensionRequestHandlingP", "BiasDefinitionUITextView"]
+- !private ["So26NSExtensionRequestHandlingP", "UIActivityViewController"]
 - ["So26NSExtensionRequestHandlingP", ""]
 - !private ["So26NSExtensionRequestHandlingP", "bias"]
+- !private ["So26NSExtensionRequestHandlingP", "fatalError"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "popoverPresentationController"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
 - !private ["So26NSExtensionRequestHandlingP", "title"]
 - !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
 - ["So8NSObjectC", "Bias"]
 - ["So8NSObjectC", "BiasDefinitionUITextView"]
+- !private ["So8NSObjectC", "UIActivityViewController"]
+- ["So8NSObjectC", "UIButton"]
 - ["So8NSObjectC", "UITextView"]
 - ["So8NSObjectC", "alignTextVerticallyInContainer"]
 - ["So8NSObjectC", "bias"]
 - !private ["So8NSObjectC", "bounds"]
 - !private ["So8NSObjectC", "contentInset"]
 - !private ["So8NSObjectC", "contentSize"]
+- !private ["So8NSObjectC", "fatalError"]
 - ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "popoverPresentationController"]
+- !private ["So8NSObjectC", "present"]
+- ["So8NSObjectC", "shareTapped"]
+- !private ["So8NSObjectC", "sourceView"]
 - !private ["So8NSObjectC", "text"]
 - !private ["So8NSObjectC", "title"]
 - ["So8NSObjectC", "viewDidLoad"]
 - !private ["So8NSObjectC", "zoomScale"]
 - !private ["So8NSObjectP", "BiasDefinitionUITextView"]
+- !private ["So8NSObjectP", "UIActivityViewController"]
 - ["So8NSObjectP", ""]
 - !private ["So8NSObjectP", "alignTextVerticallyInContainer"]
 - !private ["So8NSObjectP", "bias"]
 - !private ["So8NSObjectP", "bounds"]
 - !private ["So8NSObjectP", "contentInset"]
 - !private ["So8NSObjectP", "contentSize"]
+- !private ["So8NSObjectP", "fatalError"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "popoverPresentationController"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "sourceView"]
 - !private ["So8NSObjectP", "text"]
 - !private ["So8NSObjectP", "title"]
 - !private ["So8NSObjectP", "viewDidLoad"]
 - !private ["So8NSObjectP", "zoomScale"]
 - !private ["Sq", "alignTextVerticallyInContainer"]
 - !private ["Sq", "text"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
 - !private ["So29UIAccessibilityIdentificationP", "alignTextVerticallyInContainer"]
 - !private ["So29UIAccessibilityIdentificationP", "bounds"]
 - !private ["So29UIAccessibilityIdentificationP", "contentInset"]
 - !private ["So29UIAccessibilityIdentificationP", "contentSize"]
 - !private ["So29UIAccessibilityIdentificationP", "text"]
 - !private ["So29UIAccessibilityIdentificationP", "zoomScale"]
+- !private ["So24UIActivityViewControllerC", "init"]
+- !private ["So24UIActivityViewControllerC", "popoverPresentationController"]
 - !private ["So12UIAppearanceP", "alignTextVerticallyInContainer"]
 - !private ["So12UIAppearanceP", "bounds"]
 - !private ["So12UIAppearanceP", "contentInset"]
@@ -177,19 +253,31 @@ depends-member:
 - !private ["So12UIAppearanceP", "text"]
 - !private ["So12UIAppearanceP", "zoomScale"]
 - !private ["So21UIAppearanceContainerP", "BiasDefinitionUITextView"]
+- !private ["So21UIAppearanceContainerP", "UIActivityViewController"]
 - ["So21UIAppearanceContainerP", ""]
 - !private ["So21UIAppearanceContainerP", "alignTextVerticallyInContainer"]
 - !private ["So21UIAppearanceContainerP", "bias"]
 - !private ["So21UIAppearanceContainerP", "bounds"]
 - !private ["So21UIAppearanceContainerP", "contentInset"]
 - !private ["So21UIAppearanceContainerP", "contentSize"]
+- !private ["So21UIAppearanceContainerP", "fatalError"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "popoverPresentationController"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "sourceView"]
 - !private ["So21UIAppearanceContainerP", "text"]
 - !private ["So21UIAppearanceContainerP", "title"]
 - !private ["So21UIAppearanceContainerP", "viewDidLoad"]
 - !private ["So21UIAppearanceContainerP", "zoomScale"]
 - !private ["So18UIContentContainerP", "BiasDefinitionUITextView"]
+- !private ["So18UIContentContainerP", "UIActivityViewController"]
 - ["So18UIContentContainerP", ""]
 - !private ["So18UIContentContainerP", "bias"]
+- !private ["So18UIContentContainerP", "fatalError"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "popoverPresentationController"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "sourceView"]
 - !private ["So18UIContentContainerP", "title"]
 - !private ["So18UIContentContainerP", "viewDidLoad"]
 - !private ["So30UIContentSizeCategoryAdjustingP", "alignTextVerticallyInContainer"]
@@ -212,12 +300,18 @@ depends-member:
 - !private ["So13UIDynamicItemP", "zoomScale"]
 - !private ["So12UIEdgeInsetsV", "top"]
 - !private ["So18UIFocusEnvironmentP", "BiasDefinitionUITextView"]
+- !private ["So18UIFocusEnvironmentP", "UIActivityViewController"]
 - ["So18UIFocusEnvironmentP", ""]
 - !private ["So18UIFocusEnvironmentP", "alignTextVerticallyInContainer"]
 - !private ["So18UIFocusEnvironmentP", "bias"]
 - !private ["So18UIFocusEnvironmentP", "bounds"]
 - !private ["So18UIFocusEnvironmentP", "contentInset"]
 - !private ["So18UIFocusEnvironmentP", "contentSize"]
+- !private ["So18UIFocusEnvironmentP", "fatalError"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "popoverPresentationController"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "sourceView"]
 - !private ["So18UIFocusEnvironmentP", "text"]
 - !private ["So18UIFocusEnvironmentP", "title"]
 - !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
@@ -253,36 +347,54 @@ depends-member:
 - !private ["So24UILargeContentViewerItemP", "text"]
 - !private ["So24UILargeContentViewerItemP", "zoomScale"]
 - !private ["So30UIPasteConfigurationSupportingP", "BiasDefinitionUITextView"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIActivityViewController"]
 - ["So30UIPasteConfigurationSupportingP", ""]
 - !private ["So30UIPasteConfigurationSupportingP", "alignTextVerticallyInContainer"]
 - !private ["So30UIPasteConfigurationSupportingP", "bias"]
 - !private ["So30UIPasteConfigurationSupportingP", "bounds"]
 - !private ["So30UIPasteConfigurationSupportingP", "contentInset"]
 - !private ["So30UIPasteConfigurationSupportingP", "contentSize"]
+- !private ["So30UIPasteConfigurationSupportingP", "fatalError"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "popoverPresentationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
 - !private ["So30UIPasteConfigurationSupportingP", "text"]
 - !private ["So30UIPasteConfigurationSupportingP", "title"]
 - !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
 - !private ["So30UIPasteConfigurationSupportingP", "zoomScale"]
+- !private ["So31UIPopoverPresentationControllerC", "sourceView"]
+- !private ["So24UIPresentationControllerC", "sourceView"]
 - ["So11UIResponderC", "Bias"]
 - ["So11UIResponderC", "BiasDefinitionUITextView"]
+- !private ["So11UIResponderC", "UIActivityViewController"]
+- ["So11UIResponderC", "UIButton"]
 - ["So11UIResponderC", "UITextView"]
 - ["So11UIResponderC", "alignTextVerticallyInContainer"]
 - ["So11UIResponderC", "bias"]
 - !private ["So11UIResponderC", "bounds"]
 - !private ["So11UIResponderC", "contentInset"]
 - !private ["So11UIResponderC", "contentSize"]
+- !private ["So11UIResponderC", "fatalError"]
 - ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "popoverPresentationController"]
+- !private ["So11UIResponderC", "present"]
+- ["So11UIResponderC", "shareTapped"]
 - !private ["So11UIResponderC", "text"]
 - !private ["So11UIResponderC", "title"]
 - ["So11UIResponderC", "viewDidLoad"]
 - !private ["So11UIResponderC", "zoomScale"]
 - !private ["So30UIResponderStandardEditActionsP", "BiasDefinitionUITextView"]
+- !private ["So30UIResponderStandardEditActionsP", "UIActivityViewController"]
 - ["So30UIResponderStandardEditActionsP", ""]
 - !private ["So30UIResponderStandardEditActionsP", "alignTextVerticallyInContainer"]
 - !private ["So30UIResponderStandardEditActionsP", "bias"]
 - !private ["So30UIResponderStandardEditActionsP", "bounds"]
 - !private ["So30UIResponderStandardEditActionsP", "contentInset"]
 - !private ["So30UIResponderStandardEditActionsP", "contentSize"]
+- !private ["So30UIResponderStandardEditActionsP", "fatalError"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "popoverPresentationController"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
 - !private ["So30UIResponderStandardEditActionsP", "text"]
 - !private ["So30UIResponderStandardEditActionsP", "title"]
 - !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
@@ -294,8 +406,13 @@ depends-member:
 - !private ["So12UIScrollViewC", "text"]
 - !private ["So12UIScrollViewC", "zoomScale"]
 - !private ["So16UIStateRestoringP", "BiasDefinitionUITextView"]
+- !private ["So16UIStateRestoringP", "UIActivityViewController"]
 - ["So16UIStateRestoringP", ""]
 - !private ["So16UIStateRestoringP", "bias"]
+- !private ["So16UIStateRestoringP", "fatalError"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "popoverPresentationController"]
+- !private ["So16UIStateRestoringP", "present"]
 - !private ["So16UIStateRestoringP", "title"]
 - !private ["So16UIStateRestoringP", "viewDidLoad"]
 - !private ["So15UITextDraggableP", "alignTextVerticallyInContainer"]
@@ -335,23 +452,34 @@ depends-member:
 - !private ["So10UITextViewC", "text"]
 - !private ["So10UITextViewC", "zoomScale"]
 - !private ["So18UITraitEnvironmentP", "BiasDefinitionUITextView"]
+- !private ["So18UITraitEnvironmentP", "UIActivityViewController"]
 - ["So18UITraitEnvironmentP", ""]
 - !private ["So18UITraitEnvironmentP", "alignTextVerticallyInContainer"]
 - !private ["So18UITraitEnvironmentP", "bias"]
 - !private ["So18UITraitEnvironmentP", "bounds"]
 - !private ["So18UITraitEnvironmentP", "contentInset"]
 - !private ["So18UITraitEnvironmentP", "contentSize"]
+- !private ["So18UITraitEnvironmentP", "fatalError"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "popoverPresentationController"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "sourceView"]
 - !private ["So18UITraitEnvironmentP", "text"]
 - !private ["So18UITraitEnvironmentP", "title"]
 - !private ["So18UITraitEnvironmentP", "viewDidLoad"]
 - !private ["So18UITraitEnvironmentP", "zoomScale"]
 - !private ["So23UIUserActivityRestoringP", "BiasDefinitionUITextView"]
+- !private ["So23UIUserActivityRestoringP", "UIActivityViewController"]
 - ["So23UIUserActivityRestoringP", ""]
 - !private ["So23UIUserActivityRestoringP", "alignTextVerticallyInContainer"]
 - !private ["So23UIUserActivityRestoringP", "bias"]
 - !private ["So23UIUserActivityRestoringP", "bounds"]
 - !private ["So23UIUserActivityRestoringP", "contentInset"]
 - !private ["So23UIUserActivityRestoringP", "contentSize"]
+- !private ["So23UIUserActivityRestoringP", "fatalError"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "popoverPresentationController"]
+- !private ["So23UIUserActivityRestoringP", "present"]
 - !private ["So23UIUserActivityRestoringP", "text"]
 - !private ["So23UIUserActivityRestoringP", "title"]
 - !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
@@ -364,32 +492,50 @@ depends-member:
 - !private ["So6UIViewC", "zoomScale"]
 - ["So16UIViewControllerC", "Bias"]
 - ["So16UIViewControllerC", "BiasDefinitionUITextView"]
+- !private ["So16UIViewControllerC", "UIActivityViewController"]
+- ["So16UIViewControllerC", "UIButton"]
 - ["So16UIViewControllerC", "UITextView"]
 - ["So16UIViewControllerC", ""]
 - ["So16UIViewControllerC", "bias"]
+- !private ["So16UIViewControllerC", "fatalError"]
 - ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "popoverPresentationController"]
+- !private ["So16UIViewControllerC", "present"]
+- ["So16UIViewControllerC", "shareTapped"]
 - !private ["So16UIViewControllerC", "title"]
 - ["So16UIViewControllerC", "viewDidLoad"]
 - !private ["s30_CustomPlaygroundQuickLookableP", "height"]
 - !private ["s30_CustomPlaygroundQuickLookableP", "size"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "BiasDefinitionUITextView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIActivityViewController"]
 - ["10Foundation27_KeyValueCodingAndObservingP", ""]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "alignTextVerticallyInContainer"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "bias"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "contentInset"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "contentSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fatalError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "popoverPresentationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sourceView"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "title"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "zoomScale"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "BiasDefinitionUITextView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIActivityViewController"]
 - ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "alignTextVerticallyInContainer"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bias"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bounds"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "contentInset"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "contentSize"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "fatalError"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "popoverPresentationController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "present"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "sourceView"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "title"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
@@ -416,6 +562,7 @@ depends-nominal:
 - !private "s17CustomReflectableP"
 - "s23CustomStringConvertibleP"
 - !private "Se"
+- !private "s26DefaultStringInterpolationV"
 - !private "SE"
 - "SQ"
 - !private "s23ExpressibleByNilLiteralP"
@@ -425,7 +572,10 @@ depends-nominal:
 - "So8NSObjectC"
 - "So8NSObjectP"
 - !private "Sq"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
 - !private "So29UIAccessibilityIdentificationP"
+- !private "So24UIActivityViewControllerC"
 - !private "So12UIAppearanceP"
 - "So21UIAppearanceContainerP"
 - "So18UIContentContainerP"
@@ -440,6 +590,8 @@ depends-nominal:
 - !private "So10UIKeyInputP"
 - !private "So24UILargeContentViewerItemP"
 - "So30UIPasteConfigurationSupportingP"
+- !private "So31UIPopoverPresentationControllerC"
+- !private "So24UIPresentationControllerC"
 - "So11UIResponderC"
 - "So30UIResponderStandardEditActionsP"
 - "So12UIScrollViewC"
@@ -462,18 +614,13 @@ depends-nominal:
 depends-dynamic-lookup:
 depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
-- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreMIDI.swiftmodule/arm64.swiftmodule"
-- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreMedia.swiftmodule/arm64.swiftmodule"
-- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/simd.swiftmodule/arm64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
-- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/AVFoundation.swiftmodule/arm64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
-- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreAudio.swiftmodule/arm64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
@@ -481,20 +628,15 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/usr/include/Darwin.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "9ba67d4d09834e86fd0840965890adb3"
+interface-hash: "67196f07aa44f9e7c46da234165d7768"

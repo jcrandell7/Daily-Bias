@@ -4,13 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		/NslZcN7nulvYfiEI6k6cepoTaM=
+		</data>
 		<key>Assets.car</key>
 		<data>
-		Xv2EZhZAKTLjePbgQTP4bU6OAi0=
+		N91lcUozvqQaXv4VXuSHRbpMByg=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		DHXIubV9U+sPyvsl8IKVi1xcnAI=
+		TQXWlUQiNkdr31ZIpCAyv77xCFI=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -18,7 +22,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		HP5uwDpA/E5uQAz4iUVWjzY6hjg=
+		FIznlreVyTnVWbAcZ9p7pUgzUXE=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -26,11 +30,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UITabBarController-qPm-ud-ho0.nib</key>
 		<data>
-		h3188WNAejix30cbWjSXxflG5/s=
+		osgqKnRrzuuRYaNuAYX7pSvRulg=
 		</data>
 		<key>Explore.storyboardc/97E-Ig-TAH-view-mhe-CC-uLz.nib</key>
 		<data>
-		KvB2y+ZF2MBI7nqenJLvBVnrP98=
+		UMh+gKplODRmYBtHUfcisTW0O/k=
 		</data>
 		<key>Explore.storyboardc/Info.plist</key>
 		<data>
@@ -38,11 +42,11 @@
 		</data>
 		<key>Explore.storyboardc/UINavigationController-4dl-Wg-w7l.nib</key>
 		<data>
-		E/T1+sPF3k+o5tGnFa8c4uO59yk=
+		ZhLvkTad2uZXAwEQzLqGW9IsHYE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		asSLVoQWWjiI6r9QoqZx7jq8wL4=
+		DtES1UGmtiLtOn5e27VgRQ1Zoeg=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -54,19 +58,19 @@
 		</data>
 		<key>Search.storyboardc/UINavigationController-GCf-7e-aRp.nib</key>
 		<data>
-		DKupytVc7NVClnWYwzXUPLaVk3g=
+		0Qk27oRxFTw4pWsRAi6DiF+M1js=
 		</data>
 		<key>Search.storyboardc/UIViewController-p9s-vx-qqV.nib</key>
 		<data>
-		APmkmWmwaDW01rzoVf+rGwaNRkI=
+		giCtiPTgN9MXdklP/I/lfXFEh7I=
 		</data>
 		<key>Search.storyboardc/hsz-K7-PSn-view-dvD-Od-4qf.nib</key>
 		<data>
-		zzt7M/sHZaZAPNuJJ9YwzqCU7EU=
+		NIyV7MBoeTbirPKO6c1GeUQCJLw=
 		</data>
 		<key>Search.storyboardc/p9s-vx-qqV-view-PDF-z0-3ab.nib</key>
 		<data>
-		Pz24kRGeti7gz0z8cg7T23FvvB4=
+		UDCjeGybV9pbSPfJ/OKv4yunWe4=
 		</data>
 		<key>cognitiveBiases.json</key>
 		<data>
@@ -83,18 +87,25 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JZw9hhWA1N8gt+gZN+vPUMfeDNY1ifwbrDDzbJQhj/Y=
+			</data>
+		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7kfYaU0zPH74sc7hr7I3PgzK/PTr3S/D+LT0K59CHkk=
+			a4oYw8pZCXzjc2AmhtzsRiZefianQQkrbWloP9pgxKI=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k0UFr0zPYfv7YIX0JbH6C5CTT5fAvXQhVHSKw7KBT7s=
+			aGB+rjw6GwZVTFahPbwy0Q0mb/AuUIA36DavbbSCNPQ=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -108,7 +119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BiKNjROIwcTN12ZfJKfaYJvsXYhmSSyIUR+82gGKEQo=
+			4pHqTxu2UBwcax7gf+4whbJTRrbvF5/rUlhq58bepyc=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -122,14 +133,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7cHeelJzvIN+aVCkzeDBLkeN6xoVxf04wFqhQTKo60A=
+			vH7q8z62ChB5mO725bU+CgufovGvynpuzdNCkLG3MIQ=
 			</data>
 		</dict>
 		<key>Explore.storyboardc/97E-Ig-TAH-view-mhe-CC-uLz.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gsG6tbUdjMyHcE5UArY/6NowhrsPEkfyvmYHOpZO00Q=
+			YMaHR7DlA6owmzJalxA/PguEH1suoP0ZaO79rSnwplI=
 			</data>
 		</dict>
 		<key>Explore.storyboardc/Info.plist</key>
@@ -143,7 +154,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7tX7/Em0mEIKclEbzVpsXryVt1I9EaZg8IxW7obCoDI=
+			xhIwwZUWkw73ZF09o0hChAeXQn0DB/1WDQZ2sDgmDsc=
 			</data>
 		</dict>
 		<key>Search.storyboardc/Info.plist</key>
@@ -157,28 +168,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nmYUyqByQpvlyr+AN3LMMVxn27SZUf/kiw8s21kxBr4=
+			/Uhre16EC3out8ok1BXB+D969vJp7bT7njvplVTXlZ8=
 			</data>
 		</dict>
 		<key>Search.storyboardc/UIViewController-p9s-vx-qqV.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HQ7vi7ZVFcKuic8GWkpR3LD5s3IwZOm9YAb+D6nG9JY=
+			Moxuiwen1ZTqe4l4wu5Ps8C6rC7zMfTDC43MkY1Qp90=
 			</data>
 		</dict>
 		<key>Search.storyboardc/hsz-K7-PSn-view-dvD-Od-4qf.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ng6ewFJcfl3BJOB3DypTqdLo1PUWi/N2LmXj6Ym5zw4=
+			2pUGfUNAeiwNwtv+mWdqle0JB1hG9NTPUa2Zalr+aag=
 			</data>
 		</dict>
 		<key>Search.storyboardc/p9s-vx-qqV-view-PDF-z0-3ab.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7C+gvZxIq92v2Y29no9S3emp1WFr/MzhjkY/BCTqoi4=
+			+yPaTeRatQyKPcfQL8gLYAl4yJ9E/8D1u0M2srjvzGk=
 			</data>
 		</dict>
 		<key>cognitiveBiases.json</key>

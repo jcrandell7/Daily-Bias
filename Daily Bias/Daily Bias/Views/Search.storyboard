@@ -36,7 +36,13 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="val-8n-qO0"/>
                     </view>
-                    <navigationItem key="navigationItem" id="17H-il-O0a"/>
+                    <navigationItem key="navigationItem" id="17H-il-O0a">
+                        <barButtonItem key="rightBarButtonItem" image="arrowshape.turn.up.right" catalog="system" id="rPY-Kb-yEh">
+                            <connections>
+                                <action selector="ShareTapped:" destination="p9s-vx-qqV" id="dHR-ZE-PWD"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
                     <connections>
                         <outlet property="BiasDefinitionUITextView" destination="em4-j2-7rG" id="AGg-DK-Wih"/>
                     </connections>
@@ -115,4 +121,7 @@
             <point key="canvasLocation" x="1681" y="137"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="arrowshape.turn.up.right" catalog="system" width="128" height="106"/>
+    </resources>
 </document>
