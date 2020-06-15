@@ -206,15 +206,14 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 @class UIApplication;
-@class UISceneSession;
-@class UISceneConnectionOptions;
-@class UISceneConfiguration;
 
 SWIFT_CLASS("_TtC10Daily_Bias11AppDelegate")
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
-- (BOOL)application:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions SWIFT_WARN_UNUSED_RESULT;
-- (UISceneConfiguration * _Nonnull)application:(UIApplication * _Nonnull)application configurationForConnectingSceneSession:(UISceneSession * _Nonnull)connectingSceneSession options:(UISceneConnectionOptions * _Nonnull)options SWIFT_WARN_UNUSED_RESULT;
-- (void)application:(UIApplication * _Nonnull)application didDiscardSceneSessions:(NSSet<UISceneSession *> * _Nonnull)sceneSessions;
+- (void)applicationWillResignActive:(UIApplication * _Nonnull)application;
+- (void)applicationDidEnterBackground:(UIApplication * _Nonnull)application;
+- (void)applicationWillEnterForeground:(UIApplication * _Nonnull)application;
+- (void)applicationDidBecomeActive:(UIApplication * _Nonnull)application;
+- (void)applicationWillTerminate:(UIApplication * _Nonnull)application;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -234,6 +233,8 @@ SWIFT_CLASS("_TtC10Daily_Bias28BiasDefinitionViewController")
 
 @class UIWindow;
 @class UIScene;
+@class UISceneSession;
+@class UISceneConnectionOptions;
 
 SWIFT_CLASS("_TtC10Daily_Bias13SceneDelegate")
 @interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
